@@ -12,7 +12,7 @@
 
 LUADIR ?= ../lua
 LUA ?= $(LUADIR)/bin/lua
-LUAINC ?= $(LUADIR)/include
+LUAINC ?= /usr/include/lua5.2
 
 # ----------------------------------------------------------------------
 
